@@ -1,17 +1,15 @@
 ## Babblebox is a chat app built with:
 - ReactJS front end
-- NodeJS and Express back end
+- NodeJS(v11.13.0) and Express back end
 - Socket.io
 - PostgreSQL database
 - Knex
 
 ### To get started:
 - clone repository
-- cd into babblebox directory
 - [npm install](#npm-install)
 
 ### Build the database:
-- cd .. (main project folder)
 - npm install -g knex
 - npm install knex pg --save
 - npm nodemon --save-dev

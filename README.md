@@ -1,4 +1,4 @@
-## Babblebox is a chat app built with:
+## Babble is a chat app built with:
 - ReactJS front end
 - NodeJS(v11.13.0) and Express back end
 - Socket.io
